@@ -1,0 +1,19 @@
+
+
+
+.btn{
+    display: flex;
+    justify-content: center;
+    align-content:  center;
+}
+    
+
+button{
+    margin-top: 15em;
+    padding: 0.5em 1em;
+    font-size: 25px;
+    cursor: pointer;
+    border: 1px solid  #ced5d9;
+    border-radius: 10px;
+}
+
